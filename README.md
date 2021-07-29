@@ -1,16 +1,23 @@
-### Hi there 👋
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-<!--
-**vy0/vy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```diff
+matthew
 
-Here are some ideas to get you started:
+@@graphic designer and web developer.@@
++ mount airy, north carolina.
+- 16 years old.
+! organic#0001 to contact
+```
+<br>
+<img src="https://komarev.com/ghpvc/?username=vy0&color=blueviolet&style=flat-square">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+socials
+<br>
+- [instagram](https://instagram.com/6godsgnarly)
+- [twitter](https://twitter.com/6matt)
+  
+<br>
+
+past projects
+<br>
+- dating gabes mom
