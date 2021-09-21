@@ -14,7 +14,7 @@ matthew
 socials
 <br>
 - [instagram](https://instagram.com/6godsgnarly)
-- [twitter](https://twitter.com/6matt)
+- [twitter](https://twitter.com/harrarmeow)
   
 <br>
 
