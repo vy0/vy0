@@ -6,7 +6,7 @@ matthew
 @@graphic designer and web developer.@@
 + mount airy, north carolina.
 - 16 years old.
-! organic#0001 to contact
+! scout#0773 to contact
 ```
 <br>
 <img src="https://komarev.com/ghpvc/?username=vy0&color=blueviolet&style=flat-square">
@@ -14,10 +14,11 @@ matthew
 socials
 <br>
 - [instagram](https://instagram.com/6godsgnarly)
-- [twitter](https://twitter.com/harrarmeow)
+- [twitter](https://twitter.com/scooooooout)
   
 <br>
 
-past projects
+current projects
 <br>
 - dating gabes mom
+- website for youtuber
