@@ -22,3 +22,5 @@ current projects
 <br>
 - dating gabes mom
 - website for youtuber
+<br>
+<img src="https://img.shields.io/badge/scout0773-%231%20sim%20swapper-%237347ad?style=for-the-badge&logo=bitcoin">
